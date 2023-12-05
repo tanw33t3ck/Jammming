@@ -1,6 +1,9 @@
 // Add Your Spotify application's client ID here
 const clientId = ''; 
 
+// redirect URI used for testing on local host
+// const redirectUri = 'http://localhost:3000/';
+
 // The redirect URI for your application
 const redirectUri = 'https://www.tanwtjammming.surge.sh';
 
